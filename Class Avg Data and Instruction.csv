@@ -1,0 +1,27 @@
+10,0,5,8,5,7,10,,,
+0,3,0,8,0,6,0,,,
+3,5,10,7,0,8,4,,,
+10,10,10,10,0,8,9,,,
+6,5,5,6,7,8,9,,,
+5,0,10,7,5,9,10,,,
+0,10,0,3,4,5,6,,,
+0,5,0,0,0,0,0,,,Group Assignment: three to a group. You pick your own groups
+8,8,8,6,0,0,6,,,
+0,0,0,0,0,0,0,,,1. Read this csv file into a two dimensional array called grades such that 
+8,0,10,8,7,9,3,,,
+0,10,5,8,5,9,9,,, grades[0][0] is 10 grades[0] [1] is 0 grades[3] [5] is 8 etc.
+8,0,0,8,7,10,3,,,
+0,5,0,3,3,0,8,,,2. You have to calculate the average for every row omitting lowest two scores
+0,0,10,6,0,3,7,,,3. Store this average is a one dimensional array called avg
+10,5,5,7,2,8,10,,,4. Calculate the average of all the averages stored in avg. This is the class average.
+9,0,10,9,0,0,4,,,5. Write out the original data with the rwo average two columns after the last grade of the row
+9,4,7,8,10,4,8,,,Hints: Everything you need to do this problem is in your book (chptrs 7 and 8)
+0,0,10,9,0,2,8,,,6. Make a PowerPoint presentation with voice
+0,10,0,7,10,10,10,,,7. submit a one page written paper explaining your techniques
+10,10,10,7,10,0,7,,,
+7,0,5,7,7,7,2,,,
+5,0,10,8,8,2,7,,,
+10,9,8,8,9,4,7,,,
+9,9,10,7,8,10,2,,,
+10,10,5,9,9,8,10,,,
+10,9,9,6,5,9,9,,,
